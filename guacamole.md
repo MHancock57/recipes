@@ -4,5 +4,4 @@
 - salt  20p
 # Instructions
 
-new lines for github
-an anothe rliune for gitbub
+put one avocado  into a bowl.
